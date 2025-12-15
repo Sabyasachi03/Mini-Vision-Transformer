@@ -1,0 +1,5 @@
+data/
+__pycache__/
+*.pt
+!model_final.pt
+# Ignore data folder as it contains large datasets

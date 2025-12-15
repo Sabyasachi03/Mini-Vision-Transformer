@@ -1,0 +1,9 @@
+Mini-ViT Notebook Report
+========================
+Config: Img:32, Patch:4, Dim:128, Depth:4, Heads:4, Batch:64, Epochs:50
+Params: 546,186
+Total Time: 2555.6s
+Avg Sec/Epoch: 51.11s
+Final Val Acc: 78.31%
+Final Train Loss: 0.4691
+Fallback Triggered: False
